@@ -3,7 +3,8 @@ server:
 
 spring:
   application:
-    name: order=service
+    name: order-service
+
 eureka:
   instance:
     instance-id: order-microservice-instance
